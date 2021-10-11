@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Project CMath - Mathmatics in C</title>
+		<link rel="stylesheet" href="main.css">
+		
+	</head>
+	
+	
+	<script>
+function myFunction() {
+  // Declare variables 
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    } 
+  }
+}
+</script>
+	
+	
+	<body>
+	
+		<div class="b_one">
+		<h1 class="b_title">Project CMath</h1>
+		<p class="b_subtitle">Mathmatics in C <span>_</span></p>
+		</div>
+		
+		<div class="terminal">
+			<!--&lt; is < and gt; is >-->
+			<pre>
+			<code>
+			<p class="c">#include&lt;stdio.h&gt;</p>
+			<!--&#123; is{-->
+			<p class="c">int main() &#123;</p>
+			<p class="c">&nbsp;&nbsp;printf("%d + %d = %d"1,1,2);</p>
+			<p class="c">&nbsp;&nbsp;return 0;</p>
+			<p class="c">&#125;</p>
+			<p class="c">Your journey starts here ...<span><strong>|</strong></span></p>
+			</code>
+			</pre>
+		</div>
+		
+		<div class="wrapper">
+			<h4 class="stitle">cmath% man cmath</h4>
+			<p style="font-family: courier; color: #5D6D7E;">CMath is an open-source project for developers. This project provides small chunks of functions written in the c programming language which can solve multiple math equations.</p>
+			<h4 class="stitle">cmath% man developer</h4>
+			<p style="font-family: courier; color: #5D6D7E;">Dev* = &amp;<a href="https://jayedrafi.com">Jayed</a>; //backend dev</p>
+			<p style="font-family: courier; color: #5D6D7E;">Dev* = &amp;Effat; //backend dev</p>
+			<p style="font-family: courier; color: #5D6D7E;">Dev* = &amp;Join_us; //test dev</p>
+		</div>
+		
+		<div class="b_three">
+		<div class="wrapper">
+			
+			<div class="wrapper">
+			<h4 class="stitle">cmath% ls</h4>
+			<input type="text" id="myInput" onkeyup="myFunction()" placeholder="search_equation">
+			</div>
+			
+			<!--INTERFACE-->
+			<table id="myTable">
+  			<tr class="header">
+    		<th style="width:50%;">Equation</th>
+    		<th style="width:50%;">Branch</th>
+  			</tr>
+  			<tr>
+    		<td>ac+bc=c(a+b)</td>
+    		<td>Algebra</td>
+  			</tr>
+  			<tr>
+    		<td>a(a/b)=ab/c</td>
+    		<td>Algebra</td>
+  			</tr>
+  			<tr>
+    		<td>(a/b)/c=a/bc</td>
+    		<td>Algebra</td>
+  			</tr>
+  			<tr>
+    		<td>a/(b/c)=ac/b</td>
+    		<td>Algebra</td>
+  			</tr>
+				
+		    <tr>
+    		<td>EMPTY</td>
+    		<td>EMPTY</td>
+  			</tr>
+			</table>
+			<!--END INTERFACE-->
+			
+			</div>
+		</div>
+		
+		<footer class="footer">CMath is an open-source project for developers by developers @ 
+		<script>document.write( new Date().getUTCFullYear() );</script></footer>
+	</body>
+</html>

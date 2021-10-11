@@ -1,0 +1,161 @@
+/*top section in the body*/
+.b_one{
+	text-align: center;
+	background-color: #F2F3F4;
+	padding: 2rem 0 10rem 0;
+}
+
+/*CMath title*/
+.b_title{
+	font-family: "Courier";
+	font-weight: 900;
+	color: #212F3D;
+}
+
+/*Subheading under title*/
+.b_subtitle{
+	font-family: "Courier";
+	margin: -1rem auto 2rem auto;
+	color: #808B96;
+}
+
+.terminal{
+	width: 60%;
+	margin: -11rem auto 3rem auto;
+	text-align: left;
+	color: white;
+	padding: 0 1rem;
+	border-radius: 4px;
+	background-color: #232323;
+	min-height: 285px;
+  	animation: fadeUp 2s;
+  	box-shadow: 0px 12px 36.8px 9.2px rgba(0, 0, 0, 0.1);
+}
+
+.terminal pre{
+	white-space: pre-line;
+	padding-top: 1rem;
+}
+
+.c {
+  color: lime;
+  font-family: "Courier";
+  font-size: 17px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+  opacity: 0;
+  animation: type 4s steps(60, end) forwards;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.c:nth-child(1) {
+  animation-delay: 1s;
+}
+.c:nth-child(2) {
+  animation-delay: 2.7s;
+}
+.c:nth-child(3) {
+  animation-delay: 4s;
+}
+.c:nth-child(4) {
+  animation-delay: 6s;
+}
+.c:nth-child(5) {
+  animation-delay: 7s;
+  margin-bottom: 25px;
+}
+.c:nth-child(6) {
+  animation-delay: 7.5s;
+}
+
+span {
+  animation: blink 0.5s infinite;
+}
+.c a {
+  color: lime;
+  text-decoration: none;
+}
+@keyframes type {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    width: 30em;
+    opacity: 1;
+  }
+}
+@keyframes blink {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.footer{
+  font-family: "courier";
+  text-align: center;
+  background-color: #212F3D;
+  padding: 2rem;
+  color: white;
+}
+    
+.wrapper{
+	margin: 0 auto;
+	width: 70%;
+}
+
+.stitle{
+	font-family: "courier";
+	margin-bottom: 0;
+	color: #212F3D;
+}
+
+a{
+	color: #212F3D;
+	text-decoration: none;
+}
+a.hover{
+	color: #212F3D;
+}
+
+.b_three{
+	background-color: #F2F3F4;
+	padding: 2rem 0;
+}
+
+#myInput {
+  
+  width: 100%;
+  font-family: "courier";
+  font-size: 13px; /* Increase font-size */
+  padding: 10px;
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myTable {
+  border-collapse: collapse; /* Collapse borders */
+  width: 100%; /* Full-width */
+  border: 1px solid #ddd; /* Add a grey border */
+	font-family: "courier";
+  font-size: 13px; /* Increase font-size */
+}
+
+#myTable th, #myTable td {
+  text-align: left; /* Left-align text */
+  padding: 12px; /* Add padding */
+}
+
+#myTable tr {
+  /* Add a bottom border to all table rows */
+  border-bottom: 1px solid #ddd; 
+}
+
+#myTable tr.header, #myTable tr:hover {
+  /* Add a grey background color to the table header and on hover */
+  background-color: #f1f1f1;
+}
