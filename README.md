@@ -1,6 +1,6 @@
 <h2 align="center">Project CMath</h2>
 <h5 align="center">An open-source project for developers by developers</h5>
-<p><strong>Website:</strong><a href="https://jayedrafiprojects.github.io/cmath.c/">https://jayedrafiprojects.github.io/cmath.c/</a></p>
+<p><strong>Website: </strong><a href="https://jayedrafiprojects.github.io/cmath.c/">Link</a></p>
 <p><strong>Developers:</strong></p>
 <p>
 <ul>
