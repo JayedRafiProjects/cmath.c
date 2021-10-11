@@ -9,5 +9,5 @@
   <li><a href="">Join us</a></li>
 <ul>
 </p>
-<a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/cm_icon_transparent.png" alt="front_page"></a>
+<a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/cm_icon_transparent.png" alt="front_page"></a>
 
