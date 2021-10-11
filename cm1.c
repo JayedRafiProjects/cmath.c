@@ -3,7 +3,7 @@
 
 /**
  * Finding the hypotenuse using Pythagoras theorem
- * c = root(a^2 + b^2)
+ * c = root(a^2+b^2)
 */
 double hypotenuse(double x, double y)
 {
