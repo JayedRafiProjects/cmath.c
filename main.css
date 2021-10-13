@@ -164,5 +164,6 @@ a.hover{
 table{
    overflow-y:scroll;
    height:450px;
+   width: 100%;
    display:block;
 }
