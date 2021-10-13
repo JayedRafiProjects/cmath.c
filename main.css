@@ -143,9 +143,6 @@ a.hover{
   border: 1px solid #ddd; /* Add a grey border */
   font-family: "courier";
   font-size: 13px; /* Increase font-size */
-  overflow-y:scroll;
-  height:450px;
-  display:block;
 }
 
 #myTable th, #myTable td {
