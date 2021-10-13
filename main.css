@@ -159,3 +159,10 @@ a.hover{
   /* Add a grey background color to the table header and on hover */
   background-color: #f1f1f1;
 }
+
+/* Scrolling table */
+table{
+   overflow-y:scroll;
+   height:450px;
+   display:block;
+}
