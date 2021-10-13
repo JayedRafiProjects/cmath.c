@@ -141,8 +141,11 @@ a.hover{
   border-collapse: collapse; /* Collapse borders */
   width: 100%; /* Full-width */
   border: 1px solid #ddd; /* Add a grey border */
-	font-family: "courier";
+  font-family: "courier";
   font-size: 13px; /* Increase font-size */
+  overflow-y:scroll;
+  height:450px;
+  display:block;
 }
 
 #myTable th, #myTable td {
