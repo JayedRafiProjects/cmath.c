@@ -153,19 +153,9 @@ a.hover{
 #myTable tr {
   /* Add a bottom border to all table rows */
   border-bottom: 1px solid #ddd;
-  width: 100%;
 }
 
 #myTable tr.header, #myTable tr:hover {
   /* Add a grey background color to the table header and on hover */
-  background-color: #f1f1f1;
-  width: 100%;
-}
-
-/* Scrolling table */
-table{
-   overflow-y:scroll;
-   height:450px;
-   width: 100%;
-   display:block;
+  background-color: #f1f1f1;;
 }
