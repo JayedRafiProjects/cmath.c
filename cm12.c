@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 /*
 * This function checks if the number is natural.
 * The natural number are any non decimal or fractions positive  only
@@ -12,6 +13,7 @@ int check_natural(double x)
         return 0;
     return 1;
 }
+
 int main(void)
 {
     /*
@@ -20,6 +22,5 @@ int main(void)
     printf("%d\n",check_natural(2));
     printf("%d\n",check_natural(2.2));
     printf("%d\n\n",check_natural(-2));
-
     return 0;
 }
