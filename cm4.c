@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 /*
 * This function returns the absolute value of the number it receives
 * The absolute value, in mathematics, returns the distance between the number and 0. In other words, it returns the positive version of any negative value if it's negative
