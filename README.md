@@ -10,5 +10,5 @@
     <ul>
   </p>
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/cm_icon_transparent.png" alt="front_page"></a>
-  <p>Initiated on 10<sup>th</sup>October, 2021</p>
+  <p align="center">Initiated on 10<sup>th</sup>October, 2021</p>
 
