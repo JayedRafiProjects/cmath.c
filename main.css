@@ -147,7 +147,7 @@ a.hover{
 
 #myTable th, #myTable td {
   text-align: left; /* Left-align text */
-  padding: 12px; /* Add padding */
+  padding: 13px; /* Add padding */
 }
 
 #myTable tr {
@@ -155,7 +155,20 @@ a.hover{
   border-bottom: 1px solid #ddd;
 }
 
+
 #myTable tr.header, #myTable tr:hover {
   /* Add a grey background color to the table header and on hover */
-  background-color: #f1f1f1;;
+  background-color: #f1f1f1;
+  display: block;
+}
+
+
+tbody{
+ display:block;
+ overflow-y:scroll; 
+ height:500px;    
+}th{
+ width:500px;     
+}td{
+ width:500px;    
 }
