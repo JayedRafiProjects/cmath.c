@@ -162,7 +162,7 @@ a.hover{
   display: block;
 }
 
-
+/* Scrolling feature in the table and height adjustment */
 tbody{
  display:block;
  overflow-y:scroll; 
