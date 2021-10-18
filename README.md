@@ -4,7 +4,7 @@
   <p><strong>Developers:</strong></p>
   <p>
     <ul>
-      <li><a href="https://github.com/JayedRafiProjects">Jayed Rafi<a/></li>
+      <li><a href="https://jayedrafi.com">Jayed Rafi<a/></li>
       <li><a href="https://github.com/OmarEfat">Omar Effat</a></li>
       <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a></li>
       <li><a href="">Join as an Open Source Contributor</a></li>
