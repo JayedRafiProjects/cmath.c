@@ -17,4 +17,4 @@ int main(void)
     int result = pow_n_min(a,b,p);
     printf("Result: %d\n",result);
     return 0;
-}v
+}
