@@ -9,12 +9,6 @@
       <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a></li>
     <ul>
   </p>
-  <p><strong>Open Source Contributors:</strong></p>
-  <p>
-    <ul>
-      <li><a href="">Mohammed Ramadan<a/></li>
-    <ul>
-  </p>
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/cm_icon_transparent.png" alt="front_page"></a>
   <p align="center">Initiated on 10<sup>th</sup>October, 2021</p>
 
