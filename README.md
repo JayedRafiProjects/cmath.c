@@ -1,4 +1,4 @@
-<h2 align="center">Project CMath <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/"></h2>
+<h2 align="center">Project CMath<br/><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/"></h2>
 <h5 align="center">An open-source project for developers by developers<br/><a href="https://docs.github.com/en/developers/overview/github-developer-program">Member of GitHub Developer Program</a></h5>
   <p><strong>Website: </strong><a href="https://jayedrafiprojects.github.io/cmath.c/">Link</a></p>
   <p><strong>Developers:</strong></p>
