@@ -6,7 +6,7 @@
     <ul>
       <li><a href="https://jayedrafi.com">Jayed Rafi<a/></li>
       <li><a href="https://github.com/OmarEfat">Omar Effat</a></li>
-      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a>[Dev / Open Source]</li>
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a> [Dev / Open Source]</li>
     <ul>
   </p>
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/cm_icon_transparent.png" alt="front_page"></a>
