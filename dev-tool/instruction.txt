@@ -1,2 +1,5 @@
-OS
-CMT
+==================== DEVELOPERS TOOL ====================
+Open Source:
+
+==================== DEVELOPERS TOOL ====================
+Committers:
