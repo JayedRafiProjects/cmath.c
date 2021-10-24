@@ -1,5 +1,5 @@
 ==================== DEVELOPERS TOOL ====================
-
+programming standards: https://github.com/JayedRafiProjects/cmath.c/blob/main/dev-tool/test.c
 =========================================================
 Open Source:
 
