@@ -5,8 +5,7 @@
 *
 * Equation: 
 * Math branch: Geometry
-* Variable description: 
-*
+* Variable description:
 ****************************************/
 double your_function(double x, double y, double z)
 {
