@@ -1,6 +1,6 @@
 ==================== DEVELOPERS TOOL ====================
-> programming standards: see file test.c
-> Include test in main() method: see file test.c
+> programming standards: see file standard.c
+> Include test in main() method: see file standard.c
 > Languages
  C (backend) | HTML (web) | CSS (web) | JavaScript (web)
 =========================================================
