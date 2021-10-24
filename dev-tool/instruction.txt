@@ -4,7 +4,6 @@
 > Languages
  C (backend) | HTML (web) | CSS (web) | JavaScript (web)
 =========================================================
-Open Source:
-
+Developers:
 =========================================================
-Committers:
+Open Source:
