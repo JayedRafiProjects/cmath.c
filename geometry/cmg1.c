@@ -4,7 +4,7 @@
 /****************************************
 * Project CMath
 *
-* EQUATION: area of hexagon
+* EQUATION: area of a regular hexagon
 * BRANCH: Geometry
 * VARIABLE DESCRIPTION: s: side of hexagon
 ****************************************/
