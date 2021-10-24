@@ -3,9 +3,9 @@
 /****************************************
 * Project CMath
 *
-* Equation: sum = x+y+z
-* Math branch: Arithmatic
-* Variable description: numbers[] is a array of numaric values
+* EQUATION: sum = x+y+z
+* BRANCH: Arithmatic
+* VARIABLE DESCRIPTION: numbers[] is a array of numaric values
 ****************************************/
 double sum(double numbers[],int size)
 {
