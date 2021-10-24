@@ -3,18 +3,25 @@
 /****************************************
 * Project CMath
 *
-* Equation: 
-* Math branch: Geometry
-* Variable description:
+* Equation: sum = x+y+z
+* Math branch: Arithmatic
+* Variable description: numbers[] is a array of numaric values
 ****************************************/
-double your_function(double x, double y, double z)
+double sum(double numbers[],int size)
 {
-  return x+y+z;
+  double sum = 0;
+  for(int i=0; i<size; i++)
+  {
+    sum+=numbers[i];
+  }
+  return sum;
 }
 
 
 int main(void)
 {
-  //test here
+  double numbers[] = {0,1,2,3,4,5,6,7,8,9};
+  double result = sum(numbers,10);
+  printf("sum: %d\n",result);
   return 0;
 }
