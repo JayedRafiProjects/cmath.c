@@ -14,7 +14,7 @@ double circumference(double d){
 
 int main(void){
     double diameter = 24;
-    double result = circumference(radius);
+    double result = circumference(diameter);
     printf("Circumference of the circle: %f\n",result);
     
     return 0;
