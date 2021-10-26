@@ -6,7 +6,7 @@
 /****************************************
 * Project CMath
 *
-* EQUATION: find odd and even numbers
+* EQUATION: find odd numbers
 * BRANCH: Arithmatic
 * VARIABLE DESCRIPTION: raw: the input array with numbers,
                         output: the array containing the odd numbers in raw array but if not then INT_MIN value,
