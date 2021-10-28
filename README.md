@@ -13,7 +13,6 @@
   <p><strong>Open source developers:</strong></p>
   <p>
     <ul>
-      <li><a href="">Mohammed Ramadan [Approval pending]</a></li>
       <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a></li>
     </ul>
   </p>
