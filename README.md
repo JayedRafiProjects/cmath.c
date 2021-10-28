@@ -1,6 +1,7 @@
 <h2 align="center">Project CMath</h2>
 <h5 align="center">An open-source project for developers by developers<br/><a href="https://docs.github.com/en/developers/overview/github-developer-program">Member of GitHub Developer Program</a></h5>
   <p><strong>Website: </strong><a href="https://jayedrafiprojects.github.io/cmath.c/">Link</a></p>
+  <p><strong>Developers tool: </strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">Link</a></p>
   <p><strong>Developers:</strong></p>
   <p>
     <ul>
