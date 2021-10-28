@@ -5,7 +5,7 @@
   <p><strong>Developers:</strong></p>
   <p>
     <ul>
-      <li><a href="https://jayedrafi.com">Jayed Rafi<a/></li>
+      <li><a href="https://jayedrafi.com">Jayed Rafi<a/> [jayedrafi@outlook.com]</li>
       <li><a href="https://github.com/OmarEfat">Omar Effat</a></li>
       <li><a href="https://github.com/seun-OMJ">Seun Omojola</a></li>
     </ul>
