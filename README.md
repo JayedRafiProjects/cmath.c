@@ -10,7 +10,7 @@
       <li><a href="https://github.com/seun-OMJ">Seun Omojola</a></li>
     <ul>
   </p>
-      <p><strong>Open source developers:</strong></p>
+  <p><strong>Open source developers:</strong></p>
   <p>
     <ul>
       <li><a href="">Mohammed Ramadan [Approval pending]</a></li>
