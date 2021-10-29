@@ -3,3 +3,22 @@ Local index > Geometry
 1. Area of regular hexagon
 2. Area of regular hexagon
 3. Circumference of a circle
+4. v
+5. v
+6. v
+7. v
+8. v
+9. v
+10. v
+11. v
+12. v
+13. v
+14. v
+15. v
+16. v
+17. v
+18. v
+19. v
+20. v
+21. v
+22. v
