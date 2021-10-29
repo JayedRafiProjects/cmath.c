@@ -25,7 +25,7 @@ double perimeter(double a, double b, double c){
 int main(void){
     double peri = perimeter(3, 3, 3);
     double area = triangular_prism_lateral_surface_area(12, peri);
-    printf("result %f\n:",  area);
+    printf("result: %f\n",  area);
 
     return 0;
 }
