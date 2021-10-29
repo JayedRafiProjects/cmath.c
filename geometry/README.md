@@ -1,5 +1,7 @@
 <h2>Local index - Geometry</h2>
 <table>
-  <ul>rgrggtg</ul>
-   <ul>rgrggtg</ul>
+  <tr>
+        <th>Area of regular hexagon</th>
+        <th>Area of regular hexagon</th>
+  </tr>
 </table>
