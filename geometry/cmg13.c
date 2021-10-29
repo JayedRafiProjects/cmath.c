@@ -9,7 +9,6 @@
  * VARIABLE DESCRIPTION: radius, length
 ****************************************/
 float cone_surface_area(float radius, float length){
-
     return 2*M_PI*radius*radius+M_PI*radius*length;
 }
 
