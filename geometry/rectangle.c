@@ -1,24 +1,29 @@
 #include<stdio.h>
-// Returning the are of rectangle by printing
-void testing(double expected, double result)
-{
+
+void testing(double expected, double result){
     if(expected== result)
         printf("PASSED: The expected is %f and the result is %f\n",expected,result);
     else
         printf("FAILED: The expected is %f and the result is %f\n",expected,result);
 }
-double area_rectangle (double length , double width)
-{
+
+/****************************************
+ * Project CMath
+ *
+ * EQUATION: area of rectangle
+ * BRANCH: Geometry
+ * VARIABLE DESCRIPTION: length and width of rectangle
+****************************************/
+double area_rectangle (double length , double width){
     return length*width;
 }
 
-int main()
-{
+int main(void){
     testing(6,area_rectangle(2,3));
     testing(12,area_rectangle(3,4));
     testing(8.84,area_rectangle(3.4,2.6));
     testing(1,area_rectangle(1,1));
-
+    return 0;
 }
 
 
