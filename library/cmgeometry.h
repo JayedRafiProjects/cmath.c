@@ -1,7 +1,7 @@
 /****************************************
 * Project CMath
 *
-* Library details
+* LIBRARY DETAILS
 * BRANCH: Geometry
 * NUM EQUATIONS: 28
 ****************************************/
