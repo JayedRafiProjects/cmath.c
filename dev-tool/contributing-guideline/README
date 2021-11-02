@@ -4,7 +4,7 @@ CMath contributing guidline
 
 how to start??
 
-  Well, it is easier than you think! You can start contributing in two ways.
+> Well, it is easier than you think! You can start contributing in two ways.
   Creating a new function or debugging an existing version. Our project is 
   focused on quantity over complexity. It is possible that some of our methods 
   are less efficient. So feel free to edit and make an efficient version or if 
@@ -15,7 +15,7 @@ how to start??
 
 How to modify / create and submit contribution?
 
-  *** Before starting any contribution please follow our programming standard (link 
+> *** Before starting any contribution please follow our programming standard (link 
   below) and code of conduct (link below)!
   
   If you are modifying any pre-exising code, keep in mind that you also need to follow
