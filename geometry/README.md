@@ -1,4 +1,4 @@
-Geometry > Local inex
+geometry > local index
 ========
 1. Area of regular hexagon
 2. Area of regular hexagon
