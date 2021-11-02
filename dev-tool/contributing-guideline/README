@@ -11,6 +11,14 @@ how to start??
   to modify / create and submit your contribution.
   
 How to modify / create and submit contribution?
-  *** Before starting any contribution please follow our programming standard (link below)
-  and code of conduct (link below)!
+  *** Before starting any contribution please follow our programming standard (link 
+  below) and code of conduct (link below)!
   
+  If you are modifying any pre-exising code, keep in mind that you also need to follow
+  the naming convention and commenting style.
+  STEPS:
+  first go to the file you want to modify and press the pencil icon [Edit this file] on
+  top right corner >> modify the code >> press [Propose changes] on the bottom >> [Create
+  pull request] >> in the write section type the modifications you have made and why? (include
+  as much as details to help us understand your modification) also type your name (optional) 
+  >> [Create pull request]
