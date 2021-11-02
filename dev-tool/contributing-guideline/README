@@ -1,8 +1,7 @@
 CMath contributing guidline
 ===========================
 
-
-how to start??
+how to start?? [BE AN OPEN SOURCE CONTRIBUTOR]
 
 > Well, it is easier than you think! You can start contributing in two ways.
   Creating a new function or debugging an existing version. Our project is 
@@ -26,6 +25,19 @@ How to modify / create and submit contribution?
   [Create pull request] >> in the write section type the modifications you have made 
   and why? (include as much as details to help us understand your modification) also 
   type your name (optional) >> [Create pull request]
+  
+  For creating a new equation, first go inside of the branch (e.g. geometry) folder
+  and >> on the top press [Add file] >> [Create new file] >> and submit your code >>
+  and then submit a pull request [read above].
+  
+Before pressing [Create pull request]
+  - Test your program on your own environment or any online C compiler.
+  - check edge cases, make your code is safe.
+  - make a test in main(void) or create a test method to test your method.
+  - finally check if there is anything which is violation the CMath programming
+    standard.
+    
+
 
 important
   open source license   : GPL-3.0
