@@ -1,4 +1,4 @@
-Local index > Geometry
+<strong>Local index > Geometry</strong>
 
 1. Area of regular hexagon
 2. Area of regular hexagon
