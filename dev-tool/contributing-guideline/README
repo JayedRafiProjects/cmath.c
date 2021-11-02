@@ -1,1 +1,14 @@
+CMath contributing guidline
+===========================
 
+how to start??
+  Well, it is easier than you think! You can start contributing in two ways.
+  Creating a new function or debugging an existing version. Our project is 
+  focused on quantity over complexity. It is possible that some of our methods 
+  are less efficient. So feel free to edit and make an efficient version or if 
+  you have an equation in your mind which you think will be beneficial for c 
+  developers, then create a new file and start contributing! Now follow next step
+  to modify / create and submit your contribution.
+  
+How to modify / create and submit contribution?
+  
