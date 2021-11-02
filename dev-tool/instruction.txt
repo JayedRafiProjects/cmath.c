@@ -5,7 +5,7 @@
  C (backend) | HTML (web) | CSS (web) | JavaScript (web)
 > Branches
  Algebra | Analysis | Calculus | Combinatorics | 
- Geometry | Statistics & probability | Trignometry |
+ Geometry | Statistics & probability | Trignometry
 =========================================================
 Developers:
 =========================================================
