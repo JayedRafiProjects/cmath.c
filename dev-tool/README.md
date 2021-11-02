@@ -1,15 +1,17 @@
 Developers Base
 ===============
 
-==================== DEVELOPERS TOOL ====================
+Mathematical branches:
+                      Algebra
+                      Anaysis
+                      Calculus
+                      Combinatorics
+                      Geometry
+                      Statistics & probability
+                      Trigonometry
 > programming standards: see file standard.c
 > Include test in main() method: see file standard.c
 > Languages
  C (backend) | HTML (web) | CSS (web) | JavaScript (web)
-> Branches
- Algebra | Analysis | Calculus | Combinatorics | 
- Geometry | Statistics & probability | Trignometry
-=========================================================
-Developers:
-=========================================================
-Open Source:
+
+
