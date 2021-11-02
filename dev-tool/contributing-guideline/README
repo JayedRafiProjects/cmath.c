@@ -26,3 +26,8 @@ How to modify / create and submit contribution?
   [Create pull request] >> in the write section type the modifications you have made 
   and why? (include as much as details to help us understand your modification) also 
   type your name (optional) >> [Create pull request]
+
+important
+  open source license   : GPL-3.0
+  contributing guidline : https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/contributing-guideline
+  code of conduct       : https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/code-of-conduct
