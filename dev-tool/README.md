@@ -1,4 +1,2 @@
 developers base
 ===============
-okok
-okk
