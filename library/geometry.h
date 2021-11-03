@@ -253,23 +253,4 @@ double area_parallelogram(double base , double height);
 double area_trapeziod(double b1 , double b2 , double height);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#endif //UNTITLED5_GEOMETRY_H
+#endif //_GEOMETRY_H
