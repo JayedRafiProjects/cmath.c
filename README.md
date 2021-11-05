@@ -1,8 +1,7 @@
 <h2 align="center">Project CMath</h2>
 <h5 align="center">An open-source project for developers by developers<br/><a href="https://docs.github.com/en/developers/overview/github-developer-program">Member of GitHub Developer Program</a></h5>
-  <p>primary indtroduction ..</p>
   <h3>About CMath</h3><hr>
-  <p>biobio...</p>
+  <p>CMath is an open-source project FOR C developers focused on commonly used mathematical formulas. Well, let's start from the beginning. There are many situations where developers need to spend much time making something simple while working on a difficult project. For example, think you are developing a project where you need to use several mathematical equations many times in your program. You know these are not complex and you have a deadline soon. You need to work on other complex methods and want to have some library or pre-made methods that will accelerate your project. We got you in this situation! Maybe you are making a calculator or maybe software, in any situation feel free to use CMath! We are developing it every day and it is open-source! Develop any methods if you think you have something more efficient in your mind. Feel free to share your project to be featured on our website! Thank you for using CMath.</p>
    <h3>Why CMath?</h3><hr>
   <p>biobio...</p>
    <h3>Developers</h3><hr>
