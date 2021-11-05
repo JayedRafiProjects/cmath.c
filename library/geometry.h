@@ -1,7 +1,6 @@
 #ifndef _GEOMETRY_H
 #define _GEOMETRY_H
 
-
 /****************************************
 * Project CMath
 *
@@ -251,6 +250,5 @@ double area_parallelogram(double base , double height);
  * VARIABLE DESCRIPTION: base1, base2 and height
 ****************************************/
 double area_trapeziod(double b1 , double b2 , double height);
-
 
 #endif //_GEOMETRY_H
