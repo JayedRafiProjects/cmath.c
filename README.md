@@ -17,9 +17,12 @@
    <h3>Important links</h3><hr>
   <p>
   <strong>Website:</strong><a href="https://jayedrafiprojects.github.io/cmath.c/">https://jayedrafiprojects.github.io/cmath.c/</a>
+  <br>
   <strong>Developers tool:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool</a>
-  <strong>Contributing guidline:</strong>
-  <strong>Code of conduct:</strong>
+  <br/>
+  <strong>Contributing guidline:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/contributing-guideline"https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/contributing-guideline</a>
+  <br/>
+  <strong>Code of conduct:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/code-of-conduct">https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/code-of-conduct</a>
   </p>
   <h3>Contact information</h3><hr>
   <p>biobio...</p>
