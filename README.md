@@ -26,7 +26,7 @@
   </p>
   <h3>Contact information</h3><hr>
   <p><strong>Email:</strong> jayedrafi@outlook.com<br/>
-  please mention CMath in the subject: [CMath] - topic</p>
+  please mention CMath in the subject.</p>
   
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/web/cm_icon_transparent.png" alt="front_page"></a>
   <p align="center">Initiated on 10<sup>th</sup>October, 2021</p>
