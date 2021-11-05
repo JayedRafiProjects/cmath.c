@@ -16,16 +16,17 @@
   </p>
    <h3>Important links</h3><hr>
   <p>
-  <strong>Website:</strong><a href="https://jayedrafiprojects.github.io/cmath.c/">link</a>
+  <strong>Website:</strong><a href="https://jayedrafiprojects.github.io/cmath.c/"> link</a>
   <br>
-  <strong>Developers tool:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">link</a>
+  <strong>Developers tool:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool"> link</a>
   <br/>
-  <strong>Contributing guidline:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/contributing-guideline">link</a>
+  <strong>Contributing guidline:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/contributing-guideline"> link</a>
   <br/>
-  <strong>Code of conduct:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/code-of-conduct">link</a>
+  <strong>Code of conduct:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool/code-of-conduct"> link</a>
   </p>
   <h3>Contact information</h3><hr>
-  <p>biobio...</p>
+  <p><strong>Email:</strong> jayedrafi@outlook.com<br/>
+  please mention CMath in the subject: [CMath] - topic</p>
   
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/web/cm_icon_transparent.png" alt="front_page"></a>
   <p align="center">Initiated on 10<sup>th</sup>October, 2021</p>
