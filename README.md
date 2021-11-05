@@ -1,5 +1,8 @@
 <h2 align="center">Project CMath</h2>
 <h5 align="center">An open-source project for developers by developers<br/><a href="https://docs.github.com/en/developers/overview/github-developer-program">Member of GitHub Developer Program</a></h5>
+  <p>primary indtroduction ..</p>
+  <h3>Why CMath?</h3>
+  <p>biobio...</p>
   <p><strong>Website: </strong><a href="https://jayedrafiprojects.github.io/cmath.c/">Link</a></p>
   <p><strong>Developers tool: </strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">Link</a></p>
   <p><strong>Project developers:</strong></p>
