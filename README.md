@@ -15,11 +15,14 @@
     </ul>
   </p>
    <h3>Important links</h3><hr>
-  <p>biobio...</p>
+  <p>
+  <strong>Website:</strong><a href="https://jayedrafiprojects.github.io/cmath.c/">https://jayedrafiprojects.github.io/cmath.c/</a>
+  <strong>Developers tool:</strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool</a>
+  <strong>Contributing guidline:</strong>
+  <strong>Code of conduct:</strong>
+  </p>
   <h3>Contact information</h3><hr>
   <p>biobio...</p>
-  <p><strong>Website: </strong><a href="https://jayedrafiprojects.github.io/cmath.c/">Link</a></p>
-  <p><strong>Developers tool: </strong><a href="https://github.com/JayedRafiProjects/cmath.c/tree/main/dev-tool">Link</a></p>
   
 <a href ="https://jayedrafiprojects.github.io/cmath.c/"><img src="https://github.com/JayedRafiProjects/cmath.c/blob/main/web/cm_icon_transparent.png" alt="front_page"></a>
   <p align="center">Initiated on 10<sup>th</sup>October, 2021</p>
