@@ -3,11 +3,11 @@
   <h3>About CMath</h3><hr>
   <p>CMath is an open-source project for C developers focused on commonly used mathematical formulas. Well, let's start from the beginning. There are many situations where developers need to spend much time making something simple while working on a difficult project. For example, think you are developing a project where you need to use several mathematical equations many times in your program. You know these are not complex and you have a deadline soon. You need to work on other complex methods and want to have some library or pre-made methods that will accelerate your project. We got you in this situation! Maybe you are making a calculator or maybe software, in any situation feel free to use CMath! We are developing it every day and it is open-source! Develop any methods if you think you have something more efficient in your mind. Feel free to share your project to be featured on our website! Thank you for using CMath.</p>
    <h3>Developers</h3><hr>
-  <p> 
+  <p> Our developers are always ready to work on other projects aswel. If you need team mate in your project, feel free to ask any of our developers!!
     <ul>
-      <li><a href="https://jayedrafi.com">Jayed Rafi<a/></li>
-      <li><a href="https://github.com/OmarEfat">Omar Effat</a></li>
-      <li><a href="https://github.com/seun-OMJ">Seun Omojola</a></li>
+      <li><a href="https://jayedrafi.com">Jayed Rafi<a/> [jayedrafi@outlook.com]</li>
+      <li><a href="https://github.com/OmarEfat">Omar Effat</a> [omar.effat15@gmail.com]</li>
+      <li><a href="https://github.com/seun-OMJ">Seun Omojola</a> []</li>
        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a></li>
     </ul>
   </p>
