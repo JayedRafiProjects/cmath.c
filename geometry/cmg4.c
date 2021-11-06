@@ -8,7 +8,7 @@
 * BRANCH: Geometry
 * VARIABLE DESCRIPTION: d: diameter
 ****************************************/
-double circumference(double d){
+double circumference_2(double d){
     return M_PI*d;
 }
 
