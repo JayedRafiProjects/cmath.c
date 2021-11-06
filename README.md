@@ -6,8 +6,8 @@
   <p> Our developers are always ready to work on other projects as well. If you need team mate in your project, feel free to ask any of our developers!!
     <ul>
       <li><a href="https://jayedrafi.com">Jayed Rafi<a/> [jayedrafi@outlook.com]</li>
-      <li><a href="https://github.com/OmarEfat">Omar Effat</a> [omar.effat15@gmail.com]</li>
-      <li><a href="https://github.com/seun-OMJ">Seun Omojola</a> []</li>
+      <li><a href="https://github.com/OmarEfat">Omar Effat</a> [omar.effat@outlook.com]</li>
+      <li><a href="https://github.com/seun-OMJ">Seun Omojola</a> [omojolaos@gmail.com]</li>
        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd5TYYE53fGIzWr1rfADIQ0pVnfk0gw71PobHzDgWRO_oPG9A/viewform">Join us</a></li>
     </ul>
   </p>
