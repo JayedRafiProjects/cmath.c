@@ -17,7 +17,7 @@ double area_hexagon(double s);
 * BRANCH: Geometry
 * VARIABLE DESCRIPTION: p: perimeter, a: apothem
 ****************************************/
-double area_hexagon(double p, double a);
+double area_hexagon_2(double p, double a);
 
 /****************************************
 * Project CMath
@@ -35,7 +35,7 @@ double circumference(double r);
 * BRANCH: Geometry
 * VARIABLE DESCRIPTION: d: diameter
 ****************************************/
-double circumference(double d);
+double circumference_2(double d);
 
 /****************************************
 * Project CMath
