@@ -8,7 +8,7 @@
 * BRANCH: Geometry
 * VARIABLE DESCRIPTION: p: perimeter, a: apothem
 ****************************************/
-double area_hexagon(double p, double a){
+double area_hexagon_2(double p, double a){
     return (p*a)/2;
 }
 
